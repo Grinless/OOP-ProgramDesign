@@ -1,5 +1,0 @@
-D:\OOP-ProgramDesign\OOP-ProgramDesign\OOP-TestsProjectDesign\obj\Debug\netcoreapp3.1\OOP-TestsProjectDesign.csproj.AssemblyReference.cache
-D:\OOP-ProgramDesign\OOP-ProgramDesign\OOP-TestsProjectDesign\obj\Debug\netcoreapp3.1\OOP-TestsProjectDesign.GeneratedMSBuildEditorConfig.editorconfig
-D:\OOP-ProgramDesign\OOP-ProgramDesign\OOP-TestsProjectDesign\obj\Debug\netcoreapp3.1\OOP-TestsProjectDesign.AssemblyInfoInputs.cache
-D:\OOP-ProgramDesign\OOP-ProgramDesign\OOP-TestsProjectDesign\obj\Debug\netcoreapp3.1\OOP-TestsProjectDesign.AssemblyInfo.cs
-D:\OOP-ProgramDesign\OOP-ProgramDesign\OOP-TestsProjectDesign\obj\Debug\netcoreapp3.1\OOP-TestsProjectDesign.csproj.CoreCompileInputs.cache
