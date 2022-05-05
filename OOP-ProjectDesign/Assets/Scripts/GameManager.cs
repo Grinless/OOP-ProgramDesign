@@ -54,7 +54,7 @@ namespace Game.Systems
             get => _complete;
         }
 
-        public float Time {
+        public float CurrentTime {
             get => _currentTime;
         }
 
@@ -72,7 +72,7 @@ namespace Game.Systems
         {
             do
             {
-                _currentTime -= Time.deltaTime;
+                _currentTime -= UnityEngine.Time.deltaTime;
 
             } while (_currentTime <= 0);
 
